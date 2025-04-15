@@ -1,13 +1,12 @@
-<<<<<<< HEAD
+
 <html>
     <head>Test</head>
     <title>Afaq</title>
     <body>
         <p>this is f for pull test</p>
         <p>second Test</p>
+        <p>Third Test</p>
     </body>
 
 </html> 
-=======
-this is for pull test
->>>>>>> 8ec148b983be1948a80a08d9c87b537862ea9e61
+
